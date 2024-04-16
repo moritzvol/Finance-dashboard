@@ -1,1 +1,7 @@
-.API_Key.py
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+API_Key.py
